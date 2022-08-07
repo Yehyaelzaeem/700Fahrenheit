@@ -292,7 +292,7 @@ class _Register2State extends State<Register2> {
                                           return 'your address should be at most 5 number please try again !!!';
                                         } else {
                                           return null;
-                                        }
+                                          git add .                }
                                       } else {
                                         return (ar == false
                                             ? 'Please enter your home....'
