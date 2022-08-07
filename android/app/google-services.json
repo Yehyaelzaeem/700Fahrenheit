@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "865304465703",
+    "project_id": "fahrenheit-6e7c5",
+    "storage_bucket": "fahrenheit-6e7c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865304465703:android:a8a9524dfbc4fd380e5902",
+        "android_client_info": {
+          "package_name": "com.restaurant.fahrenheit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865304465703-oe3itaa5bq943veaf4b9r51bg47j0n0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.restaurant.fahrenheit",
+            "certificate_hash": "ecd1025f8965961ca82c4bf4033a50f7ba6bb851"
+          }
+        },
+        {
+          "client_id": "865304465703-0bgoa5km2l25mm08bj6leavs663kgoba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM9KjMC-NiH8r1mERN3Am4AJAC6sX_qrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865304465703-0bgoa5km2l25mm08bj6leavs663kgoba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
